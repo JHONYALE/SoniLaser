@@ -1,6 +1,5 @@
 # Código explicado sobre la interacción con otras interfaces
 
-````python
 # Importar los módulos necesarios
 from machine import Pin, PWM
 from utime import sleep
@@ -129,4 +128,3 @@ def reproducir_cancion(micancion):
 
 # Llamar a la función reproducir_cancion con la canción definida
 reproducir_cancion(cancion)
-````
